@@ -3,6 +3,7 @@ According to Anxiety and Depression Association **of America, **over 80% of U.S.
 
 Study Bubbles aims to help with both of these metrics. Study Bubbles is an app which motivates, focuses, and destresses students by taking a gentle approach to studying and working online with friends.
 
+**Prototype:** https://www.figma.com/proto/hMdmc4xgGOBE8nb7VSAmwI/Study-Bubbl%3Bes?node-id=3%3A44&scaling=scale-down&page-id=0%3A1&starting-point-node-id=3%3A41
 ## Personal Bubble
 Students have the option of creating a personal bubble that they can focus in. Within this bubble, they are told how long they have studied and positive affirmations. The student can also put a goal at the top of the bubble, with the bubble-wand, to further motivate them. All of these features are to create a gentle distraction from the student using their phone as a distraction.
 
