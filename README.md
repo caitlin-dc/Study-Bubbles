@@ -1,7 +1,7 @@
 # Study-Bubbles
 According to Anxiety and Depression Association **of America, **over 80% of U.S. students report feeling stressed over school**. In another study, students reported being distracted an average of 37% of the time** that they work on their schoolwork.
 
-Study Bubbles aims to help with both of these metrics. Study Bubbles is an app which motivates, focuses, and destresses students by taking a gentle approach to studying and working online with friends.
+:bubbles: :bubble: Study Bubbles aims to help with both of these metrics. Study Bubbles is an app which motivates, focuses, and destresses students by taking a gentle approach to studying and working online with friends.
 
 **Prototype:** https://www.figma.com/proto/hMdmc4xgGOBE8nb7VSAmwI/Study-Bubbl%3Bes?node-id=3%3A44&scaling=scale-down&page-id=0%3A1&starting-point-node-id=3%3A41
 ## Personal Bubble
